@@ -3,8 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=38&pause=1000&color=00D1B2&background=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Hazem+Gamal+👋;Full-Stack+Developer+%7C+Cybersecurity+Analyst" alt="Typing SVG" /></a>
 <p align="center">
   A passionate developer from Egypt 🇪🇬, bridging the gap between building applications and securing them.
+  
 </p>
-
 </div>
 
 <p align="center">
