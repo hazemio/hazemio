@@ -125,7 +125,7 @@ I am a **Full Stack Developer** with a certified specialization in **Cybersecuri
   
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=hazemio&theme=dark&background=0D1117&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=c9d1d9&hide_border=false&borderRadius=10" alt="Streak Stats" />
+  <img src="[https://streak-stats.demolab.com?user=hazemio&theme=dark&background=0D1117&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=c9d1d9&hide_border=false&borderRadius=10](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hazemio&theme=cobalt&hide_border=true&short_numbers=true)" alt="Streak Stats" />
 </div>
 
 <br />
