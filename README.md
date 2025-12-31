@@ -42,7 +42,7 @@ I am a **Full Stack Developer** with a certified specialization in **Cybersecuri
 
 | **Frontend Development** | **Backend Development** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,bootstrap,materialui&perline=5&theme=dark" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java,cpp&perline=5&theme=dark" width="250" /> |
+| <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,ts,js,html,css,tailwind,bootstrap,materialui&perline=5&theme=dark" width="250" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java,cpp&perline=5&theme=dark" width="250" /> |
 
 | **Database & Cloud** | **Security & Tools** |
 |:---:|:---:|
