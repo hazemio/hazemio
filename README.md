@@ -93,6 +93,10 @@ I am a **Full Stack Developer** with a certified specialization in **Cybersecuri
         <img src="http://images.credly.com/size/64x64/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100"><br>
         <b>Intro to Cybersecurity</b>
       </td>
+      <td align="center" width="150">
+        <img src="https://res.cloudinary.com/dwpm10yrh/image/upload/v1770990820/5798662800220556920_ibsmqj.jpg" width="100"><br>
+        <b>Technosphere '25' camp</b>
+      </td>
     </tr>
   </table>
 </div>
