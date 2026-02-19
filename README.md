@@ -139,6 +139,16 @@ I am a **Full Stack Developer** with a certified specialization in **Cybersecuri
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=60&section=footer&animation=fadeIn"/>
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hazemio&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
+</div>
+
 <p align="center">
   <small>Made with passion by <strong>Hazem Gamal</strong> © 2025</small>
 </p>
