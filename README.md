@@ -124,6 +124,7 @@ Vulnerability Assessment
 | [**market-system**](https://final2-ten.vercel.app/) | Inventory & sales management with secure authentication flows | `MERN Stack` | `LIVE` |
 | [**star-car**](https://star-car-web.vercel.app/) | Car rental platform with booking management | `React.js` | `LIVE` |
 | [**al-durra-travel**](https://al-dorra-travel.vercel.app/) | Full-stack travel agency web platform | `React` `MongoDB` `Express` | `LIVE` |
+| [*NEW PORTFOLIO**](https://hazem-gamal-kamal.vercel.app/) | High-performance personal portfolio with professional milestones | `React` `TS` `Tailwind` | `LIVE` | `Nest`|
 
 </div>
 
